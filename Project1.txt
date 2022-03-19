@@ -1,0 +1,55 @@
+Here are the list of movies :
+
+1. Asuran (U/A)   
+    Action, Drama
+
+Cast : Dhanush,Manju Warrier,Ken Karunas,Teejay,Prakash Raj,Pasupathy,Naren,Pawan
+Director : Vetri Maaran
+Music Composer : G V Prakash Kumar
+Language : Tamil, Malayalam
+Duration : 2 hrs 21 mins
+
+2.Joker (A)
+   Crime,Fantasy,Thriller
+
+Cast : Joaquin, Robert, Zazie, Brian Tyree
+Director : Todd Philips
+Music Composer : Hildur
+Language : English
+Duration : 2 hrs 16 mins
+
+3.SyeRaa Narasimha Reddy (U)
+   Action,Drama,Historical
+
+Cast : Chiranjeevi,Kicha Sudeep, Vijay Sethupathi,Jagapati Babu,Nayantara
+Director : Surender Reddy
+Music Composer : Amit Trivedi
+Language : Telugu,Kannada,Tamil,Hindi
+Duration : 3 hrs 5 mins
+
+4.Pailwaan (U/A)
+   Action, Drama
+
+Cast : Kicha Sudeep,Sunil Shetty,Sushant Singh,Akansha Singh
+Director : S Krishna 
+Music Composer : Arjun Janya
+Language : Kannada, Telugu, Tamil, Malayalam
+Duration : 2 hrs 46 mins
+
+5. Chichhorre (U)
+    Comedy,Romantic,Drama
+
+Cast : Sushant Singh, Shradda Kapoor, Varun Sharma, Tushar Pandey
+Director : Nithesh Tiwari
+Music Composer : Pritam
+Language : Hindi
+Duration : 2 hrs 29 mins
+
+
+Enter 999 to Homepage
+
+
+
+
+
+
